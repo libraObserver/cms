@@ -18,5 +18,5 @@ For me, The CMS app is lightweight, doesn't require a lot of compute power, and 
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.*
 
-If i choose VM for the CSM Article,
+If i choose VM for the CSM Article, the
 it would cost more if it gains popularity since it needs more hardware and processing power. It will take a little longer to onboard new developers because they need to understand how the VM has been configured. Additionally, the CMS might become substantially more expensive if it required additional computational power.
