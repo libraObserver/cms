@@ -18,5 +18,4 @@ For me, The CMS app is lightweight, doesn't require a lot of compute power, and 
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.*
 
-If i choose VM for the CSM Article, the
-it would cost more if it gains popularity since it needs more hardware and processing power. It will take a little longer to onboard new developers because they need to understand how the VM has been configured. Additionally, the CMS might become substantially more expensive if it required additional computational power.
+Alternatively, we can choose Virtual machine to deploy. If i choose VM for the CSM Article, first we need to create the environment inside the VM, and install all the library as well set up some file for flask to run the app. It would cost more if it gains popularity since it needs more hardware and processing power. It will take a little longer to onboard new developers because they need to understand how the VM has been configured. Additionally, the CMS might become substantially more expensive if it required additional computational power.
